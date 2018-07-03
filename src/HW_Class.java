@@ -6,6 +6,7 @@ public class HW_Class {
         System.out.println("i");
         System.out.println("commitowania.");
         System.out.println("Fajna zabawa.");
+        System.out.println("Ladna pogoda.");
 
     }
 }
